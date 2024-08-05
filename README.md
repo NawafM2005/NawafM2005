@@ -48,6 +48,6 @@ Welcome to my GitHub profile! I'm Nawaf, a dedicated student with a love for cod
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmahmood&show_icons=true&locale=en&layout=compact" alt="nmahmood" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NawafM2005&show_icons=true&locale=en&layout=compact" alt="nmahmood" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmahmood&show_icons=true&locale=en" alt="nmahmood" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NawafM2005&show_icons=true&locale=en" alt="nmahmood" /></p>
