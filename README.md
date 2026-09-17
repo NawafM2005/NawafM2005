@@ -5,7 +5,7 @@
 I'm a CS student at Toronto Metropolitan University (CGPA 4.10/4.33, Dean's List, expected grad May 2028), currently interning at <b>Sanofi</b> in Toronto across two teams: CX Data & AI and Digital M&S. I love building full-stack and AI-powered products end to end, from data pipelines to polished user-facing apps.
 </p>
 
-- 💼 Interning at **Sanofi** — building <b>TraceReview</b>, an internal agent-observability tool for the Newton (Talk to Data) platform, and automated ETL pipelines powering React/Power BI dashboards
+- 💼 Interning at **Sanofi** — building an internal agent-observability tool for the a Talk to Data platform, and automated ETL pipelines powering React/Power BI dashboards
 - 🚀 Built <b>VisualBuild</b>, a multi-tenant AI SaaS with a companion iOS app — live at [visualbuild.ca](https://visualbuild.ca)
 - 🎓 Built <b>TMU Pulse</b>, an academic planning platform serving 1,000+ students — live at [tmupulse.ca](https://tmupulse.ca)
 - 🏆 1st Place, Sanofi × Snowflake Hackathon — built <b>RepPal</b>
